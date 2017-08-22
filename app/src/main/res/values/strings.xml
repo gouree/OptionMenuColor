@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OptionMenuColor</string>
+    <string name="menu_text_color">Text Color</string>
+</resources>
